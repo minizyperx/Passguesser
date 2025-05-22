@@ -23,7 +23,7 @@ A customizable **password wordlist generator** written in Python. Ideal for ethi
 
 ### 🔧 Clone the repository
 ```bash
-git clone https://github.com/your-username/passguesser.git
+git clone https://github.com/minizyperx/passguesser.git
 cd passguesser
 
 ### Make it executable
@@ -32,4 +32,10 @@ chmod +x passguesser.py
 
 ### 🧪 Run the tool
 
-python3 passguesser.py --name Alice --dob 23052005 --partner Bob --city Paris --output mylist.txt
+python passmaker.py --help
+python3 passmaker.py --name Alice --dob 23052005 --partner Bob --city Paris --output mylist.txt
+
+
+##Follow me on linkedin
+
+https://www.linkedin.com/in/sumit-raj-b75780291/
