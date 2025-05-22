@@ -28,7 +28,7 @@ cd passguesser
 
 ### Make it executable
 
-chmod +x passguesser.py
+chmod +x passmaker.py
 
 ### 🧪 Run the tool
 
