@@ -2,9 +2,8 @@
 import itertools  #for generating combinations 
 import argparse   #for cli for hacker based interface
 from datetime import datetime
-import os #
+import os 
 
-# Fancy banner
 def print_banner():
     banner = r"""
  ___             _     _   _             
@@ -106,5 +105,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-    #for all hackers
